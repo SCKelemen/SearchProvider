@@ -1,0 +1,2 @@
+# SearchProvider
+A search provider
